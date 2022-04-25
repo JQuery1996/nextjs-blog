@@ -1,4 +1,4 @@
-import Head from "next/Head";
+import Head from "next/head";
 import Link from "next/link";
 import { Layout, siteTitle, Date } from "../components";
 import utilStyles from "../styles/utils.module.css";
